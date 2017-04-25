@@ -1,1 +1,1 @@
-# qcbs-open-science
+Exercise for the QCBS R Symposium Workshop
